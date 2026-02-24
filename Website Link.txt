@@ -1,2 +1,5 @@
-http://localhost:8501/
+Beginner:
+https://boston-house-price-prediction-shadowfox.streamlit.app/
+
+Intermediate:
 https://boston-house-price-prediction-shadowfox.streamlit.app/
