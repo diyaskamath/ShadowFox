@@ -2,4 +2,4 @@ Beginner:
 https://boston-house-price-prediction-shadowfox.streamlit.app/
 
 Intermediate:
-https://boston-house-price-prediction-shadowfox.streamlit.app/
+https://loan-approval-prediction-shadowfox.streamlit.app/
