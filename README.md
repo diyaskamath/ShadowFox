@@ -11,10 +11,11 @@ Methodology: Loaded and explored the dataset Handled missing values Selected rel
 Outcome: A functional house price prediction system demonstrating basic Machine Learning concepts and deployment.
 
 
+Intermediate Level: Loan Approval Prediction System
+
 Project Overview:
 This project aims to predict loan approval status using classification techniques. 
 The model is trained on historical loan application data to classify whether a loan is likely to be approved or rejected.
-
 
 
 Objectives:
